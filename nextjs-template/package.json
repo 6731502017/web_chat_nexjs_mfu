@@ -14,9 +14,13 @@
     "@mui/icons-material": "^7.3.7",
     "@mui/material": "^7.3.7",
     "@mui/material-nextjs": "^7.3.7",
+    "aedes": "^0.51.3",
+    "mqtt": "^5.14.1",
     "next": "16.1.6",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "websocket-stream": "^5.5.2",
+    "ws": "^8.19.0"
   },
   "devDependencies": {
     "@types/node": "^20",
